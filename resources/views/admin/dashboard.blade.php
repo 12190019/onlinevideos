@@ -1,0 +1,11 @@
+@extends('include.sidenav')
+
+@section('content')
+<!-- <h3 style="text-align:center"></h3>
+<img src="{{asset('storage/images/dashboard.jpg')}}" style="height:300px; width:100%; text-align: center;"><br><br> -->
+<h1 style="text-align:center;">About Movies</h1><br>
+A film, also called a movie, motion picture or moving picture, is a work of visual art used to simulate experiences that communicate ideas, stories, perceptions, feelings, beauty, or atmosphere through the use of moving images. These images are generally accompanied by sound, and more rarely, other sensory stimulations.The word "cinema", short for cinematography, is often used to refer to filmmaking and the film industry, and to the art form that is the result of it.<br><br>
+The moving images of a film are created by photographing actual scenes with a motion-picture camera, by photographing drawings or miniature models using traditional animation techniques, by means of CGI and computer animation, or by a combination of some or all of these techniques, and other visual effects.<br><br>
+Before the introduction of digital production, film was a physical strip of film consisting of a series of static or still images of live action photographed at the rate of 24 frames or images per second. When the images are viewed at the same rate the illusion of motion is the result of what is called persistence of vision, the fact that the mind cannot process individual images at that speed, so the images merge together to produce the illusion of motion within the image. If the film is an animation of any kind, the widely separated in time images are planned to be seen at the standard speed.<br><br>
+Traditionally, films were recorded onto celluloid film stock through a photochemical process and then shown through a movie projector onto a large screen. Contemporary films are often fully digital through the entire process of production, distribution, and exhibition, while films recorded in a photochemical form traditionally included an analogous optical soundtrack (a graphic recording of the spoken words, music and other sounds that accompany the images which runs along a portion of the film exclusively reserved for it, and is not projected).
+@endsection
